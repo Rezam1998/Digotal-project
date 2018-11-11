@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="164" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd</arg>&quot; Line <arg fmt="%d" index="2">99</arg>. <arg fmt="%s" index="3">parse error, unexpected PROCESS, expecting IF</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd</arg>&quot; Line <arg fmt="%d" index="2">119</arg>. <arg fmt="%s" index="3">parse error, unexpected WHEN, expecting END</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd</arg>&quot; Line <arg fmt="%d" index="2">123</arg>. <arg fmt="%s" index="3">parse error, unexpected WHEN, expecting END</arg>
+</msg>
+
+<msg type="error" file="HDLParsers" num="164" delta="old" >&quot;<arg fmt="%s" index="1">C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd</arg>&quot; Line <arg fmt="%d" index="2">134</arg>. <arg fmt="%s" index="3">parse error, unexpected CASE, expecting IF</arg>
+</msg>
+
+</messages>
+

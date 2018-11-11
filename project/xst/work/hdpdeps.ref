@@ -1,0 +1,9 @@
+V3 3
+FL C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd 2018/10/28.15:39:52 P.20131013
+EN work/projecgt_RAM 0 \
+      FL C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/projecgt_RAM/Behavioral 0 \
+      FL C:/Users/lenovo/Desktop/project/project/projecgt_RAM.vhd \
+      EN work/projecgt_RAM 0
